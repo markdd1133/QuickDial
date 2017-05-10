@@ -10,6 +10,7 @@
 		F58A0CA01EB0D83B00EFCB3F /* SettingNameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F58A0C9F1EB0D83B00EFCB3F /* SettingNameViewController.swift */; };
 		F58A0CA21EB0D85100EFCB3F /* SettingNumberViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F58A0CA11EB0D85100EFCB3F /* SettingNumberViewController.swift */; };
 		F58A0CA41EB0D86F00EFCB3F /* DeleteEditViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F58A0CA31EB0D86F00EFCB3F /* DeleteEditViewController.swift */; };
+		F5C8AC621EBFE084005D9341 /* dial-icon.png in Resources */ = {isa = PBXBuildFile; fileRef = F5C8AC611EBFE084005D9341 /* dial-icon.png */; };
 		F5FFCD6E1EB0B87B004D6EC3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5FFCD6D1EB0B87B004D6EC3 /* AppDelegate.swift */; };
 		F5FFCD701EB0B87B004D6EC3 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5FFCD6F1EB0B87B004D6EC3 /* ViewController.swift */; };
 		F5FFCD731EB0B87B004D6EC3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F5FFCD711EB0B87B004D6EC3 /* Main.storyboard */; };
@@ -23,6 +24,7 @@
 		F58A0C9F1EB0D83B00EFCB3F /* SettingNameViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingNameViewController.swift; sourceTree = "<group>"; };
 		F58A0CA11EB0D85100EFCB3F /* SettingNumberViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingNumberViewController.swift; sourceTree = "<group>"; };
 		F58A0CA31EB0D86F00EFCB3F /* DeleteEditViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DeleteEditViewController.swift; sourceTree = "<group>"; };
+		F5C8AC611EBFE084005D9341 /* dial-icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "dial-icon.png"; sourceTree = "<group>"; };
 		F5FFCD6A1EB0B87B004D6EC3 /* QuickDial.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = QuickDial.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F5FFCD6D1EB0B87B004D6EC3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F5FFCD6F1EB0B87B004D6EC3 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -75,6 +77,7 @@
 				F58A0C9F1EB0D83B00EFCB3F /* SettingNameViewController.swift */,
 				F58A0CA11EB0D85100EFCB3F /* SettingNumberViewController.swift */,
 				F58A0CA31EB0D86F00EFCB3F /* DeleteEditViewController.swift */,
+				F5C8AC611EBFE084005D9341 /* dial-icon.png */,
 			);
 			path = QuickDial;
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F5C8AC621EBFE084005D9341 /* dial-icon.png in Resources */,
 				F5FFCD7B1EB0B87B004D6EC3 /* LaunchScreen.storyboard in Resources */,
 				F5FFCD781EB0B87B004D6EC3 /* Assets.xcassets in Resources */,
 				F5FFCD731EB0B87B004D6EC3 /* Main.storyboard in Resources */,

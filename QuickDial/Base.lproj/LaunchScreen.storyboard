@@ -21,7 +21,7 @@
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="dialIcon" translatesAutoresizingMaskIntoConstraints="NO" id="A4I-0G-qrp">
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="dial-icon.png" translatesAutoresizingMaskIntoConstraints="NO" id="A4I-0G-qrp">
                                 <rect key="frame" x="87" y="233.5" width="200" height="200"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="200" id="G5g-EB-i1I"/>
@@ -35,7 +35,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                         </subviews>
-                        <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <color key="backgroundColor" red="0.33071720600128174" green="0.78597122430801392" blue="0.94138032197952271" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
                             <constraint firstItem="A4I-0G-qrp" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="8Oy-fB-daH"/>
                             <constraint firstItem="A4I-0G-qrp" firstAttribute="centerY" secondItem="Ze5-6b-2t3" secondAttribute="centerY" id="S6C-cc-kGR"/>
@@ -50,6 +50,6 @@
         </scene>
     </scenes>
     <resources>
-        <image name="dialIcon" width="512" height="512"/>
+        <image name="dial-icon.png" width="1024" height="1024"/>
     </resources>
 </document>
